@@ -122,7 +122,7 @@ Copyright (c) 2026 Swen Langel
 
 See the LICENSE file for details.
 
-[![Buy Me a Coffee](giphy.gif)](https://buymeacoffee.com/retradnews"Buy me a coffee and help fund new hardware for the project! Thank you! ☕")
+[![Buy Me a Coffee](giphy.gif)](https://buymeacoffee.com/retradnews "Buy me a coffee and help fund new hardware for the project! Thank you! ☕")
 
 ## Disclaimer
 
