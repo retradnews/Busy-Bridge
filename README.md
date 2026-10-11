@@ -1,7 +1,7 @@
 # BusyBridge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.3.2-blue" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/platform-ESP32--S2-red" alt="Platform">
   <img src="https://img.shields.io/badge/status-stable-success" alt="Status">
@@ -79,7 +79,7 @@ USB descriptors, HID reports, identification responses and device behaviour were
 
 ### Current Version
 
-**v1.0.0**
+**v0.3.2**
 
 Implemented and verified:
 
