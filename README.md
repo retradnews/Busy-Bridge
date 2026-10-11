@@ -140,7 +140,7 @@ BusyBridge is not limited to the Yealink BLT60.
 
 Because the project already emulates a Kuando-compatible USB HID device, it can also be used as the foundation for a completely custom Busylight implementation. Instead of connecting a BLT60, one or more WS2812 / NeoPixel LEDs can be attached to the ESP32-S2.
 
-Combined with a custom enclosure, this creates a fully functional DIY Kuando-compatible Busylight, often referred to as **KuandEmu**.
+Combined with a custom enclosure, this creates a fully functional DIY Kuando-compatible Busylight. In my own projects, I refer to this concept as **KuandEmu** (Kuando Emulator).
 
 Possible advantages include:
 
