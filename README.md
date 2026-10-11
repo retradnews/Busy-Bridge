@@ -153,26 +153,8 @@ Possible advantages include:
 
 A simple ESP32-S2 combined with one or more WS2812 LEDs can therefore become a fully functional Kuando-compatible status indicator.
 
-### WLED Integration
+Note: Integration with WLED-based lighting systems is being considered for a future version.
 
-BusyBridge can also act as a bridge between Kuando-compatible software and existing WLED installations.
-
-Instead of driving a local BLT60 or WS2812 LED, received status information can be forwarded over Wi‑Fi to one or more WLED controllers.
-
-Example use cases include:
-
-- LED strips behind a monitor
-- Desk ambient lighting
-- Office door status lights
-- Workshop signal lighting
-- Studio status indicators
-- Entire room accent lighting
-
-For example, when AGFEO Dashboard or Kuando HUB sets the Busylight status to red (busy), BusyBridge can forward the state to a WLED installation so that the entire workspace reflects the same status.
-
-This extends BusyBridge beyond a simple hardware adapter and allows Kuando-compatible applications to interact with modern smart-lighting installations.
-
----
 
 ## Limitations Compared to an Original Kuando Busylight
 
