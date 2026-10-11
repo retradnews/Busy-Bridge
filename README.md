@@ -102,7 +102,7 @@ Real-world testing has confirmed successful operation with both AGFEO Dashboard 
 Tested with:
 
 - Arduino IDE 2.x
-- ESP32 Arduino Core 3.3.11
+- ESP32 Arduino Core 3.3.12
 - ESP32-S2 Mini
 
 Compile and flash the firmware to an ESP32-S2 board.
